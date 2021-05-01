@@ -130,3 +130,7 @@ dmypy.json
 config.py
 
 .DS_Store
+
+Resources/Images/
+        Resources/clean_shelter_data.csv
+        Resources/dallas_shelter_data.csv
