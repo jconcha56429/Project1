@@ -14,3 +14,6 @@ Our project seeks to uncover patterns with adopted and euthanized animals.  We w
 For this project our data sources are Dallas Animal Shelter Data from 2016 - 2021 and the Petfinder API.
 ***
 Please see the Google Slide associated with this project for our final data analysis and summary of major findings.  You can also find this information in the jupyter notebook files located in this repository.
+
+Google Slide Presentation:
+https://docs.google.com/presentation/d/1Hwbsf_k4HbU-nrrmbHQfy8LlcG3P2OAdzd0SR2T4yDQ/edit?usp=sharing
